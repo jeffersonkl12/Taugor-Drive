@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>463824073258-m0vi82jejbrc670veafb7rje5oqk0svt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.463824073258-m0vi82jejbrc670veafb7rje5oqk0svt</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>463824073258-oc41lejm69caiem9uv8n2fqaikupk604.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC7VfbYb0P_BCbtLkGVHnRVq4CNYERkdHs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>463824073258</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jeffersonkl.taugordrive</string>
+	<key>PROJECT_ID</key>
+	<string>driver-83623</string>
+	<key>STORAGE_BUCKET</key>
+	<string>driver-83623.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:463824073258:ios:9b40a0dbee23f9b5d28953</string>
+</dict>
+</plist>

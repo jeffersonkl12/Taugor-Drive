@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "taugor-drive",
+    "slug": "taugor-drive",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "supportsTablet": true,
+      "bundleIdentifier": "com.jeffersonkl.taugordrive"
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.jeffersonkl.taugordrive"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": ["expo-font", "@react-native-google-signin/google-signin"],
+    "extra": {
+      "eas": {
+        "projectId": "ea8e70f6-f200-4f53-af71-9a43a4fd0f34"
+      }
+    },
+    "scheme": "com.jeffersonkl.taugordrive",
+    "androidStatusBar": {
+      "backgroundColor": "transparent",
+      "translucent": true
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "463824073258",
+    "project_id": "driver-83623",
+    "storage_bucket": "driver-83623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463824073258:android:fe82b25fc00e2a54d28953",
+        "android_client_info": {
+          "package_name": "com.jeffersonkl.taugordrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463824073258-oc41lejm69caiem9uv8n2fqaikupk604.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jeffersonkl.taugordrive",
+            "certificate_hash": "326ccd45652c693f68a796cb234fe88280df9610"
+          }
+        },
+        {
+          "client_id": "463824073258-r81np6ifsjbhoqckj3di0q10e40e7ine.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jeffersonkl.taugordrive",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "463824073258-g259pob7pret5k3ou6it58pc8t814s02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-fp0LkKf6g9vXPSQtfa4lHLv34W7vAqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463824073258-g259pob7pret5k3ou6it58pc8t814s02.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "463824073258-fan4r97t4pl181felsr16qmj61fn8297.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jeffersonkl.taugordrive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
